@@ -1,0 +1,6 @@
+{
+  "name": "Kha-Yig: Tibetan Tutor & Culture",
+  "description": "Learn Tibetan language, practice typing, and explore Tibetan history and culture with an AI-powered tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered tutoring", "Tibetan typing practice", "Cultural explorer", "Language dictionary"]
+}
